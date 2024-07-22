@@ -6,7 +6,7 @@ function About() {
             <div className='p-20'>
 
                 <h1 className='font-bold text-center text-3xl p-8 text-amber-500'>ABOUT</h1>
-                <p >With a dream and a grand vision to bring sumptuous, authentic South Indian and Chinese fare to your doorstep, we founded the exclusive kitchen ‘Food On Way’ in 2015, in chennai.</p>
+                <p >With a dream and a grand vision to bring sumptuous, authentic South Indian and Chinese fare to your doorstep, we founded the exclusive kitchen "Food On Way" in 2015, in chennai.</p>
             </div>
 
             <div className='p-20'>
